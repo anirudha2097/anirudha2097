@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AnirudhaDesai11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivendra0852" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anirudha-desai-57521223a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivendra-shrivastwa-492273237" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/desaianu90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivendra0852" height="30" width="40" /></a>
-<a href="https://leetcode.com/anirudhadesai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivendrasince2001" height="30" width="40" /></a>
+<a href="https://twitter.com/AnirudhaDesai11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudha2097" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anirudha-desai-57521223a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudha2097" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/desaianu90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anirudha2097" height="30" width="40" /></a>
+<a href="https://leetcode.com/anirudhadesai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudha2097" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
