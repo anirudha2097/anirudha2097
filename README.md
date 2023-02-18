@@ -1,4 +1,3 @@
-[![MasterHead](https://binaryinformatics.com/wp-content/uploads/2022/09/Java-Developer-Skills.jpg)](https://anirudha2097.io)
 <h1 align="center">Hi 👋, I'm Anirudha!</h1>
 <h3 align="center">A Java Backend Developer!</h3>
 
@@ -26,10 +25,16 @@
 <a href="https://leetcode.com/anirudhadesai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudha2097" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Teck Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,maven,mysql,aws,postman,bootstrap,css,html,js,git" />
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,maven,mysql,aws,bootstrap,css,html,js" />
+  </a>
+</p>
+<h3 align="left">Tools & Software:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,git,github,netlify" />
   </a>
 </p>
 
